@@ -1,0 +1,15 @@
+{
+  "presets": [
+    "@babel/react"
+  ],
+  "plugins": [
+    [
+      "react-css-modules",
+      {
+        "option": "value"
+      },
+    
+    ],
+    "prettier"
+  ]
+}
